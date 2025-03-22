@@ -1,0 +1,14 @@
+pandas
+langchain
+pypdf
+dotenv
+langgraph
+langchain-groq
+fastapi
+langchain-community
+pypdf
+langchain_huggingface
+faiss-cpu
+streamlit
+fastapi
+uvicorn
